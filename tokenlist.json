@@ -1,0 +1,138 @@
+[
+    {
+        "name": "USD Coin",
+        "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
+        "name": "Wrapped BTC",
+        "address": "0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857"
+    },
+    {
+        "name": "Lombard Staked Bitcoin",
+        "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+        "symbol": "LBTC",
+        "decimals": 8,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/39969/standard/LBTC_Logo.png?1724959872"
+    },
+    {
+        "name": "Uranium",
+        "address": "0x79052Ab3C166D4899a1e0DD033aC3b379AF0B1fD",
+        "symbol": "xU3O8",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/67758/standard/xu.png?1753733711"
+    },
+    {
+        "name": "Wrapped XTZ",
+        "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+        "symbol": "WXTZ",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/51172/standard/WXTZ_Logo_Black.png?1750764795"
+    },
+    {
+        "name": "Spiko EU T-Bills Money Market Fund",
+        "address": "0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80",
+        "symbol": "EUTBL",
+        "decimals": 5,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/39657/standard/EUTBL.png?1723517425"
+    },
+    {
+        "name": "Midas Re7 Yield",
+        "address": "0x733d504435a49FC8C4e9759e756C2846c92f0160",
+        "symbol": "mRe7YIELD",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/54660/standard/mre7yield_logo.png?1740896178"
+    },
+    {
+        "name": "stXTZ token",
+        "address": "0x01F07f4d78d47A64F4C3B2b65f513f15Be6E1854",
+        "symbol": "stXTZ",
+        "decimals": 6,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/66203/standard/stXTZ_token_200.png?1748669715"
+    },
+    {
+        "name": "Spiko US T-Bills Money Market Fund",
+        "address": "0xe4880249745eAc5F1eD9d8F7DF844792D560e750",
+        "symbol": "USTBL",
+        "decimals": 5,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/39666/standard/USTB.png?1723541269"
+    },
+    {
+        "name": "Midas Basis Trading Token",
+        "address": "0x2247B5A46BB79421a314aB0f0b67fFd11dd37Ee4",
+        "symbol": "mBASIS",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/50593/standard/mBASIS_logo.png?1728444389"
+    },
+    {
+        "name": "Midas MEV",
+        "address": "0x5542F82389b76C23f5848268893234d8A63fd5c8",
+        "symbol": "mMEV",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/54592/standard/mmev_logo.png?1740565795"
+    },
+    {
+        "name": "Midas US Treasury Bill Token",
+        "address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+        "symbol": "mTBILL",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/37839/standard/mTBILL_token.png?1728417279"
+    },
+    {
+        "name": "Wrapped ETH",
+        "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332"
+    },
+    {
+        "name": "Tether USD",
+        "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+    },
+    {
+        "name": "Sugarverse",
+        "address": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
+        "symbol": "CNDY",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/52864/standard/twitter_profile.jpg?1734543227"
+    },
+    {
+        "name": "Sogni AI",
+        "address": "0x2767Fc1048cd0ae4fd952eeF09853301c9DC7173",
+        "symbol": "SOGNI",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/67008/standard/sogni.jpg?1751450446"
+    },
+    {
+        "name": "USDSM",
+        "address": "0x6bDE51212203aE5d592Cc5180DA2ABBd41c922dE",
+        "symbol": "USDSM",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-etherlink/0x6bde51212203ae5d592cc5180da2abbd41c922de.png"
+    }
+]
