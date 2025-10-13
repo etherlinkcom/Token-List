@@ -112,12 +112,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
     },
     {
-        "name": "Sugarverse",
-        "address": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
-        "symbol": "CNDY",
+        "name": "Apple XTZ",
+        "address": "0xcFD2f5FAF6D92D963238E74321325A90BA67fCA3",
+        "symbol": "applXTZ",
         "decimals": 18,
         "chainId": 42793,
-        "logoURI": "https://assets.coingecko.com/coins/images/52864/standard/twitter_profile.jpg?1734543227"
+        "logoURI": "https://static.debank.com/image/ethlink_token/logo_url/0x6e9c1f88a960fe63387eb4b71bc525a9313d8461/22760b63305cfce8ec8b63f5a6d78006.png"
     },
     {
         "name": "Sogni AI",
@@ -128,11 +128,35 @@
         "logoURI": "https://assets.coingecko.com/coins/images/67008/standard/sogni.jpg?1751450446"
     },
     {
+        "name": "Sugarverse",
+        "address": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
+        "symbol": "CNDY",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/52864/standard/twitter_profile.jpg?1734543227"
+    },
+    {
         "name": "USDSM",
         "address": "0x6bDE51212203aE5d592Cc5180DA2ABBd41c922dE",
         "symbol": "USDSM",
         "decimals": 18,
         "chainId": 42793,
         "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-etherlink/0x6bde51212203ae5d592cc5180da2abbd41c922de.png"
+    },
+    {
+        "name": "Apple stXTZ",
+        "address": "0x0008b6C5b44305693bEB4Cd6E1A91b239D2A041E",
+        "symbol": "applstXTZ",
+        "decimals": 6,
+        "chainId": 42793,
+        "logoURI": "https://static.debank.com/image/ethlink_token/logo_url/0x6e9c1f88a960fe63387eb4b71bc525a9313d8461/22760b63305cfce8ec8b63f5a6d78006.png"
+    },
+    {
+        "name": "Curve DAO Token",
+        "address": "0x004A476B5B76738E34c86C7144554B9d34402F13",
+        "symbol": "CRV",
+        "decimals": 18,
+        "chainId": 42793,
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png?1696511967"
     }
 ]
