@@ -149,7 +149,7 @@
         "symbol": "applstXTZ",
         "decimals": 6,
         "chainId": 42793,
-        "logoURI": "https://static.debank.com/image/ethlink_token/logo_url/0x6e9c1f88a960fe63387eb4b71bc525a9313d8461/22760b63305cfce8ec8b63f5a6d78006.png"
+        "logoURI": "https://storage.googleapis.com/merkl-static-assets/tokens/applstXTZ.png"
     },
     {
         "name": "Curve DAO Token",
